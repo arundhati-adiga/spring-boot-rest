@@ -17,7 +17,7 @@ Rest API using spring boot
 
 2.Execute from command line , java -jar transaction-category-service-1.0.0-SNAPSHOT.war
 
-3. Tomat is embedded with war . 
+3.Tomcat is embedded with war.
 
 4. Swagger UI has been integrated with Spring boot , Swagger UI can be accessed using below url.
        http://localhost:8082/swagger-ui.html
