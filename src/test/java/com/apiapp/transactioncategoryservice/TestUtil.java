@@ -49,7 +49,7 @@ public class TestUtil {
 			
 			
 			
-			File file = ResourceUtils.getFile("classpath:test\\testdata.txt");
+			File file = ResourceUtils.getFile("classpath:test"+File.separator+"testdata.txt");
 				
 			 myJson = new String(Files.readAllBytes(file.toPath()));
 
